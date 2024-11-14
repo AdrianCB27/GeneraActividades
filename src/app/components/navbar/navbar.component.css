@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    align-items: center;
+    height: 65px;
+    justify-content: center;
+}
+p{
+    font-size: larger;
+    font-style:normal;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
